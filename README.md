@@ -8,6 +8,8 @@ Demo för JDD.
 * Karma som test-runner
 * Pattern Mediator (publisher/subscriber)
 
+(Karma måste finnas installerat för att kunna köra "karma start"
+http://karma-runner.github.io/0.10/index.html)
 
 
 To get Karma to run with [Require.js] we need two files:
